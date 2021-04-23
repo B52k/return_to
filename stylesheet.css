@@ -1,0 +1,28 @@
+.container {
+    position: relative;
+    width: 600px;
+    height: 200px;
+    left: 200px;
+    top: 100px;
+}
+
+h1 {
+    color: #003E27;
+    font-size: 60px;
+}
+
+.subhead {
+    color: #916C1E;
+    font-size: 20px;
+}
+
+h3 {
+    color: #003E27;
+    font-size: 20px;
+}
+
+#result {
+    color: #916C1E;
+    font-size: 18px;
+}
+
